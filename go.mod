@@ -1,4 +1,4 @@
-module github.com/perisie/cmmn
+module github.com/perisie/cm2n
 
 go 1.23.0
 

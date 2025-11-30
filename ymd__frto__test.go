@@ -1,8 +1,9 @@
-package cmmn
+package cm2n
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func Test__ymd__frto(t *testing.T) {

@@ -1,4 +1,4 @@
-package cmmn
+package cm2n
 
 import (
 	"time"

@@ -1,10 +1,11 @@
-package cmmn
+package cm2n
 
 import (
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
 	"testing"
 	"time"
+
+	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func Test__ymd__is__between(t *testing.T) {
